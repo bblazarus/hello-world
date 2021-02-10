@@ -7,3 +7,7 @@ Adding content from my laptop:
 As an adjective, manifest is a formal way to say that something is apparent to the senses and is synonymous with evident, apparent, or clear.
 If you have strong feelings about something, they will be manifest on your face. A ship or plane's manifest is the list of cargo or passengers
  on a particular trip.
+
+ added dev.txt
+
+ 
